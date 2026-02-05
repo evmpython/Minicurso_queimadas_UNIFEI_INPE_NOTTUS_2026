@@ -1,4 +1,4 @@
-![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_UFMS_CEMTEC_marco_2026/main/04_logos/Minicurso_UFMS_CEMTEC_marco_2026.png)
+![Texto alternativo](https://raw.githubusercontent.com/evmpython/Minicurso_queimadas_UNIFEI_INPE_NOTTUS_2026/main/04_logos/Apresentacao_do_Minicurso_UNFEI_INPE_NOTTUSMS_2026.png)
 ---
 
 # 💻 Minicurso: 
