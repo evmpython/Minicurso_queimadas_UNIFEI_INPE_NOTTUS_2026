@@ -5,19 +5,20 @@
 *Processamento e Visualização de Dados de Queimadas (PyFIRE)*
 ---
 
-### Ministrante: Prof. Dr. Enrique Vieira Mattos
-**Universidade Federal de Itajubá (UNIFEI)**
+### Ministrantes:
+Dr. Enrique Mattos - UNIFEI
+Dr. Guilherme Martins – NOTTUS Meteorologia
+Diego Souza - INPE
 
 ---
 
 ## 📋 Informações Gerais
 
-- **Formato:** Presencial 
-- **Data:** 10, 11 e 12 de março de 2026
-- **Horário:** 08:30 às 17:00 horas (com 1h30min de intervalo de almoço)
-- **Local:** Universidade Federal do Mato Grosso do Sul (UFMS)
-- **Vagas disponíveis:** Presencial - 40 vagas
-- **Carga Horária:** 21 horas
+- **Formato:** Online 
+- **Data:** XX e XX de julho de 2026
+- **Horário:** 08:00 às 12:00 horas 
+- **Vagas disponíveis:** XX vagas
+- **Carga Horária:** 8 horas
 
 ---
 
