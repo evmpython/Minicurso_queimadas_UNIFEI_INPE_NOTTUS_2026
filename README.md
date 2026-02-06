@@ -93,7 +93,7 @@ Estudantes de graduação, pós-graduação e profissionais da área de Meteorol
 ## 📁 Material do Curso
 
 Todo o material está disponível no GitHub:  
-https://github.com/evmpython/Minicurso_UNIFEI_INPE_NOTTUS_2026
+https://github.com/evmpython/Minicurso_queimadas_UNIFEI_INPE_NOTTUS_2026
 
 ---
 
