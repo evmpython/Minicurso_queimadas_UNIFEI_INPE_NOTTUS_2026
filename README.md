@@ -23,7 +23,18 @@
 ---
 
 ## 🎯 Objetivo do Curso
-<p align="justify"> Nos últimos anos o uso da linguagem de programação Python tem crescido rapidamente. Isso deve-se a sua facilidade de aprendizado, extensa aplicabilidade em diversas áreas científicas e comunidade fortemente atuante. Com isso, o uso do Python para desenvolvimento de pesquisas e a utilização em operação nos setores públicos e privados de meteorologia tem ganhado bastante atenção. Nesse contexto, este curso tem como objetivo ensinar os alunos e servidores a processarem, visualizarem e analisarem as informações de imagens de satélite, relâmpagos, precipitação, índices de vegetação e queimadas através da Linguagem Python. Os alunos e servidores aprenderão a trabalhar com as principais bibliotecas Python amplamente empregadas em meteorologia, como: Xarray, Pandas, Matplotlib, Cartopy, Ultraplot, Salem e Geemap. Em adição, aprenderão sobre a poderosa ferramenta na nuvem de processanento e visualização de dados geoespaciais do Google denominada Google Earth Engine (GEE). Empregaremos essas bibliotecas e base de dados para produzir e analisar imagens de satélite, relâmpagos, mapas e séries temporais de precipitação, índices de vegetação e queimadas fornecidos por satélites. Com o aprendizado adquirido os alunos e servidores poderão gerar análises de forma rápida e interativa para qualquer estado e município do Brasil. </p>
+<p align="justify"> O curso tem como objetivo ensinar aos alunos como acessar e analisar dados de focos de calor provenientes de queimadas detectados por satélites polares e geoestacionários. 
+
+O curso terá duas componentes: teórica e prática. Na componente teórica serão abordados os fundamentos da detecção de focos de calor por satélite, tipos de satélites disponíveis e canal espectral utilizado. Na componente prática será empregado a linguagem de programação Python e o Google Colab, onde os alunos aprenderão a baixar os dados, processar, gerar gráficos e analisar os resultados. A base de dados da aula prática consiste dos dados de focos de calor processados e disponibilizados pelo INPE e os dados de queimadas disponibilizados pela Plataforma Google Earth Engine (GEE).
+
+Ao final do curso o alunos terão a capacidade de: 
+
+- Analisar séries temporais de focos de calor
+- Gerar análises climatológicas do acumulado e anomalia de focos de calor
+- Analisar risco de fogo 
+- Analisar imagens de satélite para identificação visual de queimadas
+- Trabalhar com índices espectrais para detecção de queimadas
+- Calcular tamanho da área queimada </p>
 
 
 ---
